@@ -1,0 +1,21 @@
+
+/* 
+    Created on : Oct 18, 2022, 8:19:40 PM
+    Author     : camisalazar
+*/
+
+*{
+  background-color: beige;
+}
+
+.card1{
+    
+}
+
+.card2{
+    border-radius: 20px;
+	height: 150px;
+	width: 200px;
+	margin-bottom: 100px;
+	float: right;
+}
